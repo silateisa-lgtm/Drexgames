@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "title": "2048",
+    "description": "Join the numbers and get to the 2048 tile!",
+    "iframeUrl": "https://play2048.co/",
+    "thumbnail": "https://picsum.photos/seed/2048/400/300",
+    "category": "Puzzle"
+  },
+  {
+    "id": "2",
+    "title": "Hextris",
+    "description": "An addictive puzzle game where you rotate a hexagon to match colors.",
+    "iframeUrl": "https://hextris.io/",
+    "thumbnail": "https://picsum.photos/seed/hextris/400/300",
+    "category": "Arcade"
+  },
+  {
+    "id": "3",
+    "title": "Doodle Jump",
+    "description": "Jump as high as you can in this classic arcade game.",
+    "iframeUrl": "https://doodle-jump.io/",
+    "thumbnail": "https://picsum.photos/seed/doodlejump/400/300",
+    "category": "Arcade"
+  },
+  {
+    "id": "4",
+    "title": "Paper.io 2",
+    "description": "Capture as much territory as possible and defeat your opponents.",
+    "iframeUrl": "https://paper-io.com/",
+    "thumbnail": "https://picsum.photos/seed/paperio/400/300",
+    "category": "IO"
+  },
+  {
+    "id": "5",
+    "title": "Tetris",
+    "description": "The classic block-stacking puzzle game.",
+    "iframeUrl": "https://tetris.com/play-tetris",
+    "thumbnail": "https://picsum.photos/seed/tetris/400/300",
+    "category": "Classic"
+  },
+  {
+    "id": "6",
+    "title": "Little Alchemy 2",
+    "description": "Combine elements to create new items in this crafting game.",
+    "iframeUrl": "https://littlealchemy2.com/",
+    "thumbnail": "https://picsum.photos/seed/alchemy/400/300",
+    "category": "Puzzle"
+  }
+]
